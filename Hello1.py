@@ -6,3 +6,8 @@ Created on Tue Apr 16 15:24:12 2024
 """
 
 print("Hello word 1!")
+
+
+
+
+print("Hello word 2!")
