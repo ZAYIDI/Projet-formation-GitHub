@@ -12,7 +12,7 @@ print("Hello word 1!")
 
 print("Hello word 2!")
 
-
+print("moi c'est samuel")
 
 import numpy as np
 import matplotlib.pyplot as plt
